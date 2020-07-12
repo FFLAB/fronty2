@@ -4,7 +4,7 @@ const settings = {
     "frontity": {
       "url": "https://fflab.info/blog",
       "title": "FFLAB.DEV",
-      "description": "FFLAB powered by new Frontity"
+      "description": "FFLAB powered by Frontity"
     }
   },
   "packages": [
@@ -13,7 +13,6 @@ const settings = {
   state: {
     theme: {
       menu: [
-        ["Home", "/"],
         ["Vignette", "/category/vignette/"],
         ["Racconti", "/category/racconti/"],
         ["Chi", "/start/"],

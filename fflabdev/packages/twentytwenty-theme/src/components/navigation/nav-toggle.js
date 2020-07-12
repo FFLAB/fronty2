@@ -115,6 +115,7 @@ export const ToggleInner = styled.span`
   height: 2.3rem;
   position: relative;
   bottom: 0.5rem;
+  color: #ffffff;
 
   @media (min-width: 1000px) {
     position: static;
@@ -127,6 +128,7 @@ export const ToggleInner = styled.span`
     display: block;
     position: relative;
     z-index: 1;
+    color: #ffffff;
   }
 `;
 

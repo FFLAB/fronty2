@@ -109,6 +109,10 @@ span.toggle-text {
     color: rgb(172, 172, 172);
     text-decoration: none;
 }
+
+figure ul{
+  list-style:none;
+}
 `;
 //up here some css custom by me - from #header.site-header to text-decoration 
 const accessibilitySettings = css`

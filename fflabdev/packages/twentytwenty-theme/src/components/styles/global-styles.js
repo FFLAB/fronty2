@@ -110,7 +110,8 @@ span.toggle-text {
     text-decoration: none;
 }
 
-figure ul{
+figure ul,
+.coblocks-gallery ul{
   list-style:none;
 }
 `;
